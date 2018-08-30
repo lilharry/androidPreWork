@@ -4,11 +4,8 @@
 This app is a basic hello world app, with added features that allow the user to change the text with the push of a button. It also allows you to change the text color and background.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
+<img src="/androidapp.gif" width=200></img>
 
-![](androidapp.gif | width=100)
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
